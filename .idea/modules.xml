@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springfrense/demo.iml" filepath="$PROJECT_DIR$/springfrense/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erphrense/erphrense.iml" filepath="$PROJECT_DIR$/erphrense/erphrense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projects2.iml" filepath="$PROJECT_DIR$/.idea/projects2.iml" />
+    </modules>
+  </component>
+</project>
